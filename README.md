@@ -7,6 +7,7 @@ Demo application show Business to Business | Customer | Employer. Demonstration 
 * [Docker Quickstart](#docker-quickstart)
 * [Non-Docker Quickstart](#running-locally)
 * [Deployement](#deployment)
+* [Shell](#shell)
 
 ## Docker Quickstart
 
