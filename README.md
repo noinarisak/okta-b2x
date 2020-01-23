@@ -2,6 +2,11 @@
 
 Demo application show Business to Business | Customer | Employer. Demonstration highlighting Delegration Administration, RBAC/ABAC and more.
 
+## Table of Content
+
+* [Docker Quickstart](#docker-quickstart)
+* [Non-Docker Quickstart](#running-locally)
+
 ## Docker Quickstart
 
 This app can be run completely using `Docker` and `docker-compose`. **Using Docker is recommended, as it guarantees the application is run using compatible versions of Python and Node**.
